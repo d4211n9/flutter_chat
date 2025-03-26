@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'imports.dart';
 
 class Spinner extends StatelessWidget {
   const Spinner({super.key});

@@ -1,7 +1,4 @@
-import 'package:flutter/material.dart';
-
-import 'account/login/login_page.dart';
-import 'custom_themes/custom_theme_1.dart';
+import 'imports.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'My Chat App',
       theme: theme,
-      home: LoginPage(),
+      home: RegisterPage(),
     );
   }
 }

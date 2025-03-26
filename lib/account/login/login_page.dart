@@ -1,7 +1,4 @@
-import 'package:flutter/material.dart';
-
-import '../../common_constants/form_constants.dart';
-import '../../common_widgets/form_spacer.dart';
+import 'imports.dart';
 
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});

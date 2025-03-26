@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'imports.dart';
 
 /// Set of extension methods to easily display a snack bar
 extension ShowSnackBar on BuildContext {
